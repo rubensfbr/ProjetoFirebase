@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navegacao"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.projetofirebase.presentation.fragments.MainFragment"
+        android:label="Categorias"
+        tools:layout="@layout/fragment_main">
+        <action
+            android:id="@+id/action_mainFragment_to_produtosFragment"
+            app:destination="@id/produtosFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/categoriaFragment"
+        android:name="com.example.projetofirebase.presentation.fragments.CategoriaFragment"
+        android:label="Adicionar Categoria"
+        tools:layout="@layout/fragment_categoria" />
+    <fragment
+        android:id="@+id/produtosFragment"
+        android:name="com.example.projetofirebase.presentation.fragments.ProdutosFragment"
+        android:label="Produtos"
+        tools:layout="@layout/fragment_produtos"/>
+    <fragment
+        android:id="@+id/adicionarProdutoFragment"
+        android:name="com.example.projetofirebase.presentation.fragments.AdicionarProdutoFragment"
+        android:label="Adicionar Produto"
+        tools:layout="@layout/fragment_adicionar_produto" />
+</navigation>

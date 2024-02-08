@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjetoFirebase</string>
+    <string name="id_app_admob">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="id_bloco_anuncios_admob">ca-app-pub-3940256099942544/6300978111</string>
+
+
+</resources>
