@@ -73,7 +73,7 @@ Sistema de login usando Firebase Authentication.
 ### Feature 2
 <img src="screenshots/features_2.gif" width="25%"/>
 
-Lista dos itens e navegação entre os mesmos.
+Listagem dos itens e navegação entre os mesmos.
 
 ### Feature 2
 <img src="screenshots/features_3.gif" width="25%"/>
