@@ -10,9 +10,9 @@
 
 <p align="center">  
 
-⭐ Esse é um projeto para demonstrar meu conhecimento técnico no desenvolvimento Android nativo com Kotlin. Mais informações técnicas abaixo.
+⭐ Projeto para demonstrar meu conhecimento técnico no desenvolvimento Android nativo com Kotlin. Mais informações técnicas abaixo.
 
-Projeto simulando um aplicativo de vendas focado em fornecedores, com opção de adicionar categorias e produtos, listando os mesmos. 
+Projeto simulando um aplicativo de vendas focado em lojistas, com opção de adicionar categorias e produtos, listando os mesmos. 
 
 </p>
 
