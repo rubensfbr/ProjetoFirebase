@@ -50,7 +50,7 @@ Faça o download da <a href="apk/app-debug.apk?raw=true">APK diretamente</a>. Vo
   - Comunicação da ViewModel com a View através de LiveData
   - Repositories para abstração da comunidação com a camada de dados.
   
-- Bibliotecas - LISTE TODAS AS BIBLIOTECAS USADAS NO PROJETO, COM LINK E DESCRIÇÃO BREVE DO QUE ELA FAZ
+- Bibliotecas
   - [Dagger Hilt](https://developer.android.com/training/dependency-injection/hilt-android?hl=pt-br) : Para fazer injeção de dependências que reduz o código boilerplate.
   - [Firebase Authentication](https://firebase.google.com/products/auth?hl=pt) : Login simples em qualquer plataforma.
   - [Firebase Cloud Storage](https://firebase.google.com/products/storage?hl=pt) : Armazena fotos e vídeos dos usuários .
